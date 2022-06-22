@@ -1,0 +1,14 @@
+{
+  "name": "@dschro-1993/pulumi-cross-stack-consumer",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@types/node": "^17.0.21",
+    "typescript": "^4.7.3",
+    "gts": "^3.1.0"
+  },
+  "dependencies": {
+    "@pulumi/aws": "^5.7.2",
+    "@pulumi/pulumi": "^3.34.1"
+  },
+  "scripts": {}
+}
